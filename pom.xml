@@ -67,15 +67,15 @@
       <url>http://maven.repository.redhat.com/ga/</url>
     </repository>
     <!-- <repository>
-        <id>jfrog</id> <!-- A unique ID for your JFrog repository -->
-        <url>http://172.20.3.35:8982/artifactory/OriginationWorkItem</url> <!-- The URL to your JFrog repository -->
+        <id>jfrog</id> 
+        <url>http://172.20.3.35:8982/artifactory/OriginationWorkItem</url>
         <snapshots>
-            <enabled>true</enabled> <!-- Enable or disable snapshot versions as needed -->
+            <enabled>true</enabled> 
         </snapshots>
         <releases>
-            <enabled>true</enabled> <!-- Enable or disable release versions as needed -->
-        </releases> -->
-    </repository>
+            <enabled>true</enabled> 
+        </releases>
+    </repository> -->
   </repositories>
   <pluginRepositories>
     <pluginRepository>
